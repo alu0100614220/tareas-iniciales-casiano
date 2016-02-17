@@ -18,3 +18,11 @@ img{
   width: 750px;
   height: 350px;
 }
+#identificador{
+  position: fixed;
+  right:10px;
+}
+button{
+  width: 150px;
+  height: 40px
+}
