@@ -1,23 +1,20 @@
+body{
+  background-color: #F5F6CE;
+  font: italic 1.1em/2.2 georgia;
+
+}
 img{
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
-#nodetittle {
-  width: 300px;
-  height: 150px;
-}
-#nodejs {
-  width: 500px;
-  height: 272px;
 
-}
-#atomlogo {
+#nodetittle,#atomlogo, #mdlogo {
   width: 300px;
   height: 150px;
 
 }
-#atomeditor {
+#githubdesktop, #c9, #atomeditor, #nodejs, #stackedit{
   width: 750px;
   height: 350px;
 }
